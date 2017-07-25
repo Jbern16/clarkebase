@@ -1,3 +1,6 @@
+OUT OF SERVICE. Clarkecoin is no longer being maintained, but enjoy our homepage and our code :P 
+
+
 A way to transfer the CyptoCurrency, Clarkecoin to your friends! 
 
 Features Include: 
